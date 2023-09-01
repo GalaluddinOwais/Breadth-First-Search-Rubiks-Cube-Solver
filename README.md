@@ -26,10 +26,7 @@ java RC.java
 #### Please, do not pay too much attention to the code itself. It was written more by a Rubik's Cube enthusiast than a seasoned programmer :D
 #### The primary objective was to get the program up and running, no matter how the code might appear xD
 #### Just run it, provide your Rubik's Cube configuration, and patiently await its calculation of the least number of moves needed to solve it.
-
-
-
-
+___
 #### Search for "unhash" in the source code:
 #### the first hashed line would show serieses of moves tested during finding the solution
 #### the other hashed line would show changes over the cube tested during finding the solution
