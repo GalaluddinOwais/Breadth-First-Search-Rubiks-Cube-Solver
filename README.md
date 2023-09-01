@@ -8,7 +8,7 @@
 #### * Implemented the logic of BFS to find the fastest possible solution (at the expense of computational power)
 #### * Finished the project to be built from scratch (just imported some key java libraries to handle arrays)
 #### * Could solve a 7-moves shuffled Rubik’s cubes in only 5 moves in less than 2 seconds
-#### * Could solve another 7-moves shuffled Rubik’s cubes in only 6 moves in around a minute
+ * Could solve another 7-moves shuffled Rubik’s cubes in only 6 moves in around a minute
 
 # Requirements
 #### Any `Java` version should work!
