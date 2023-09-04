@@ -29,6 +29,6 @@ java RC.java
 ___
 #### Search for "unhash" in the source code:
 #### the first hashed line would show serieses of moves tested during finding the solution
-#### the other hashed line would show changes over the cube tested during finding the solution
+#### the second hashed line would show changes over the cube tested during finding the solution
 
 
