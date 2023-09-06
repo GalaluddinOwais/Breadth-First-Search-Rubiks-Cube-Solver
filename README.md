@@ -14,7 +14,7 @@
 #### Any `Java` version should work!
 
 # Execution
-#### locate the source code and execute it using the command:
+#### locate `RC.java` and run the following command:
 ```
 java RC.java
 ```
