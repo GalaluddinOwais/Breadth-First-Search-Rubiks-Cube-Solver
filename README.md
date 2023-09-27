@@ -21,7 +21,8 @@ java RC.java
 # Demonstration
 #### [Google drive link](https://drive.google.com/drive/folders/1tjMPFxNt5oSCpc1TyPZtPsl4sxmpvLSO?usp=share_link)
 
-![image](https://github.com/GalaluddinOwais/Breadth-First-Search-Rubiks-Cube-Solver/assets/111979327/7f6b3bba-66f3-4353-a55e-dba89fb0302c)
+![image](https://github.com/GalaluddinOwais/Breadth-First-Search-Rubiks-Cube-Solver/assets/111979327/97480fc3-246c-45a4-a73d-4b72960c11c6)
+
 ![image](https://github.com/GalaluddinOwais/Breadth-First-Search-Rubiks-Cube-Solver/assets/111979327/e7469443-010c-4536-8fe2-188b75582f46)
 
 
